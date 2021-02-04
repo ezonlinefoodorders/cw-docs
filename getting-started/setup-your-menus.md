@@ -7,14 +7,6 @@ description: >-
 
 # Setup Your Menus
 
-{% embed url="https://vimeo.com/user69624751/review/508593709/09ae594043" %}
-
-{% embed url="https://vimeo.com/user69624751/review/508593709/09ae594043" %}
-
-```text
-<iframe src="https://player.vimeo.com/video/508593709" width="640" height="320" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-```
-
 {% embed url="https://youtu.be/ObpALHkGlZc" %}
 
 
