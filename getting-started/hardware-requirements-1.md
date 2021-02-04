@@ -48,7 +48,7 @@ Windows 10 tablets are abundant and cheap these days. You can't go wrong choosin
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
+* Samsung 
 
 ## Recommended Printers
 
